@@ -17,5 +17,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   </svg>
 </figure>
 
-<p class="caption">Plot 2.2.1.1.1: A rising trend line indicating steady progress over time.</p>
+<p class="caption"><strong>Plot 2.2.1.1.1:</strong> A rising trend line indicating steady progress over time.</p>
 :::

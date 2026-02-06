@@ -10,31 +10,31 @@ book:
     - frontmatter/how-to-read.qmd
     - part: "Slothful Apex"
       chapters:
-        - source/part-1/book-1/chapter-1.qmd
-        - source/part-1/book-1/chapter-2.qmd
-        - source/part-1/book-2/chapter-1.qmd
-        - source/part-1/book-2/chapter-2.qmd
+        - source/slothful-apex/feral-zephyr/echoing-marble.qmd
+        - source/slothful-apex/feral-zephyr/brisk-chimera.qmd
+        - source/slothful-apex/mirthful-anvil/nimble-monolith.qmd
+        - source/slothful-apex/mirthful-anvil/sable-carousel.qmd
     - part: "Avid Wanderlust"
       chapters:
-        - source/part-2/book-1/chapter-1.qmd
-        - source/part-2/book-1/chapter-2.qmd
-        - source/part-2/book-2/chapter-1.qmd
-        - source/part-2/book-2/chapter-2.qmd
+        - source/avid-wanderlust/quizzical-lantern/wistful-quartz.qmd
+        - source/avid-wanderlust/quizzical-lantern/fickle-horizon.qmd
+        - source/avid-wanderlust/velvet-tundra/radiant-vortex.qmd
+        - source/avid-wanderlust/velvet-tundra/gentle-labyrinth.qmd
     - part: "Luminous Quirk"
       chapters:
-        - source/part-3/book-1/chapter-1.qmd
-        - source/part-3/book-1/chapter-2.qmd
-        - source/part-3/book-2/chapter-1.qmd
-        - source/part-3/book-2/chapter-2.qmd
+        - source/luminous-quirk/cobalt-serendipity/prismatic-dune.qmd
+        - source/luminous-quirk/cobalt-serendipity/dapper-cascade.qmd
+        - source/luminous-quirk/gilded-thistle/crimson-meadow.qmd
+        - source/luminous-quirk/gilded-thistle/hushed-topaz.qmd
     - part: "Oblique Jubilee"
       chapters:
-        - source/part-4/book-1/chapter-1.qmd
-        - source/part-4/book-1/chapter-2.qmd
-        - source/part-4/book-2/chapter-1.qmd
-        - source/part-4/book-2/chapter-2.qmd
+        - source/oblique-jubilee/rustic-nebula/whimsical-barricade.qmd
+        - source/oblique-jubilee/rustic-nebula/amber-gyre.qmd
+        - source/oblique-jubilee/saffron-riddle/lucid-harpoon.qmd
+        - source/oblique-jubilee/saffron-riddle/jubilant-citadel.qmd
   appendices:
-    - source/appendices/appendix-a.qmd
-    - source/appendices/appendix-b.qmd
+    - source/appendices/sample-proofs.qmd
+    - source/appendices/additional-proofs.qmd
 
 format:
   html:

@@ -19,5 +19,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 }
 ```
 
-<p class="caption">Code Block 3.2.1.1.1: Example metadata record.</p>
+<p class="caption"><strong>Code Block 3.2.1.1.1:</strong> Example metadata record.</p>
 :::

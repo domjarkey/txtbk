@@ -20,5 +20,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   </svg>
 </figure>
 
-<p class="caption">Figure 1.1.1.1.1: A simple three-stage workflow used as a placeholder diagram.</p>
+<p class="caption"><strong>Figure 1.1.1.1.1:</strong> A simple three-stage workflow used as a placeholder diagram.</p>
 :::

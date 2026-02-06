@@ -17,11 +17,11 @@ summary = summarize_scope(2, 1, 2, 1)
 print(f"Scope identifier: {summary}")
 ```
 
-<p class="caption">Code Block 2.1.2.1.1: Example output for a scope identifier.</p>
+<p class="caption"><strong>Code Block 2.1.2.1.1:</strong> Example output for a scope identifier.</p>
 :::
 
 ::: {#definition-2-1-2-1-2 .definition}
-> A scope identifier is the four-part label that maps a topic to its part, book, chapter, and section.
+> **Definition:** A <u>scope identifier</u> is the four-part label that maps a topic to its part, book, chapter, and section.
 
-<p class="caption">Definition 2.1.2.1.2: Scope identifier.</p>
+<p class="caption"><strong>Definition 2.1.2.1.2:</strong> <u>Scope identifier</u>.</p>
 :::

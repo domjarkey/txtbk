@@ -4,7 +4,7 @@ These instructions apply to the entire repository unless a more specific `AGENTS
 
 ## Book structure
 - The book is authored in Quarto `.qmd` files under `frontmatter/` and `source/`.
-- Source content is organized as `source/part-<n>/book-<n>/chapter-<n>.qmd`.
+- Source content is organized as `source/<part-title>/<book-title>/<chapter-title>.qmd`.
 - The build order and canonical list of chapters/appendices is defined in `_quarto.yml` and should be updated when adding or removing files.
 
 ## Headings and numbering
@@ -27,6 +27,9 @@ These instructions apply to the entire repository unless a more specific `AGENTS
   - Use `::: {#<id>}` (plus a class like `.definition` for text boxes) to wrap the artifact content.
   - Place the caption below the artifact content inside the same div.
   - Captions are plain paragraphs (no subheader) that include the numbering and optional description, e.g. `Figure 1.1.1.1.1: Description.`.
+  - Caption text is centered, and the label portion (for example, `Figure 1.1.1.1.1:`) is bold.
+  - Definition text begins with **Definition:** in bold and underlines the defined term(s) when they appear in the definition.
+  - Text boxes begin with a short bold descriptor followed by a colon (for example, **Historical context:**).
   - Example:
     ```
     ::: {#figure-1-1-1-1-1}
@@ -34,7 +37,7 @@ These instructions apply to the entire repository unless a more specific `AGENTS
       ...
     </figure>
 
-    <p class="caption">Figure 1.1.1.1.1: A simple three-stage workflow.</p>
+    <p class="caption"><strong>Figure 1.1.1.1.1:</strong> A simple three-stage workflow.</p>
     :::
     ```
 
