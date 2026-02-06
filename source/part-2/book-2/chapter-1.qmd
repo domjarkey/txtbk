@@ -1,4 +1,4 @@
-# Volume 1, Part 2, Book 2, Chapter 1
+# Part 2, Book 2, Chapter 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -6,9 +6,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-## Section 1 (1.2.2.1.1) {#sec-1-2-2-1-1}
+## Section 1 (2.2.1.1) {#sec-2-2-1-1}
 
-### Plot 1.2.2.1.1.1 {#plot-1-2-2-1-1-1}
+### Plot 2.2.1.1.1 {#plot-2-2-1-1-1}
 
 <figure>
   <svg width="240" height="100" viewBox="0 0 240 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Simple trend line plot">
@@ -16,5 +16,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
     <line x1="10" y1="85" x2="230" y2="85" stroke="#555" />
     <line x1="10" y1="20" x2="10" y2="85" stroke="#555" />
   </svg>
-  <figcaption>Plot 1.2.2.1.1.1: A rising trend line indicating steady progress over time.</figcaption>
+  <figcaption>Plot 2.2.1.1.1: A rising trend line indicating steady progress over time.</figcaption>
 </figure>

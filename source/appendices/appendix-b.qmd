@@ -1,0 +1,20 @@
+# Appendix B: Additional proofs
+
+## Proof B.1
+
+Assume a sequence of partial sums $S_n$ with a geometric decay factor. The following relation captures the closed form we will cite.
+
+$$
+S_n = \sum_{k=0}^{n} r^k = \frac{1 - r^{n+1}}{1 - r}
+$${#eq-appendix-b-geom}
+
+Equation @eq-appendix-b-geom yields the bound $S_n \le \frac{1}{1-r}$ when $0 < r < 1$.
+
+<figure id="plot-appendix-b-1">
+  <svg width="260" height="110" viewBox="0 0 260 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Geometric decay plot">
+    <polyline fill="none" stroke="#805ad5" stroke-width="3" points="10,20 60,40 110,55 160,70 210,80 250,90"/>
+    <line x1="10" y1="100" x2="250" y2="100" stroke="#555" />
+    <line x1="10" y1="10" x2="10" y2="100" stroke="#555" />
+  </svg>
+  <figcaption>Plot B.1: A decaying sequence visualized as a trend line.</figcaption>
+</figure>

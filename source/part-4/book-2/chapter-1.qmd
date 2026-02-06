@@ -1,4 +1,4 @@
-# Volume 2, Part 2, Book 1, Chapter 1
+# Part 4, Book 2, Chapter 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -6,8 +6,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-## Section 1 (2.2.1.1.1) {#sec-2-2-1-1-1}
-
-### Text Box 2.2.1.1.1.1 {#textbox-2-2-1-1-1-1}
-
-> **Context note.** This text box highlights the intent to keep references consistent across every division.
+For implementation context, consult [code block 2.1.2.1.1](../../part-2/book-1/chapter-2.qmd#code-2-1-2-1-1) and the guidance in [text box 1.1.2.1.1](../../part-1/book-1/chapter-2.qmd#textbox-1-1-2-1-1).

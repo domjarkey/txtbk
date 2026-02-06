@@ -1,0 +1,29 @@
+# How to read this book
+
+This book is organized into **parts**, **books**, and **chapters**. Each chapter contains numbered sections and learning artifacts. The numbering scheme always follows the same pattern:
+
+- **Parts** are the top-level divisions (Part 1, Part 2, and so on).
+- **Books** sit within parts (Book 1, Book 2, etc.).
+- **Chapters** live within books, and each chapter starts with a numbered section.
+- The numbering format is `part.book.chapter.section`, with a final element number for specific artifacts (for example, `2.1.2.1.1`).
+
+## Reference conventions
+
+When an artifact is referenced in text, the number and label match the pattern above.
+
+- **Sections** use `part.book.chapter.section` (for example, “Section 3.2.1.1”).
+- **Figures** and **plots** use `part.book.chapter.section.figure` (for example, “Figure 1.1.1.1.1” or “Plot 4.1.2.1.1”).
+- **Tables** use `part.book.chapter.section.table` (for example, “Table 1.2.1.1.1”).
+- **Text boxes** use `part.book.chapter.section.textbox` (for example, “Text Box 4.1.1.1.1”).
+- **Code blocks** use `part.book.chapter.section.code` (for example, “Code Block 2.1.2.1.1”).
+- **Equations** use `part.book.chapter.section.equation` (for example, “Equation 3.2.2.1.1”).
+
+## How to interpret artifacts
+
+- **Code blocks** present structured snippets that illustrate a concept or a workflow.
+- **Plots** and **figures** provide visual summaries; plots emphasize data trends, while figures depict diagrams or layouts.
+- **Tables** highlight structured comparisons or checklists.
+- **Text boxes** call out key takeaways, warnings, or contextual notes.
+- **Equations** summarize mathematical relationships used in proofs or derivations.
+
+Use the numbering to trace references across parts and books quickly, and rely on the artifact labels to understand the type of content being cited.

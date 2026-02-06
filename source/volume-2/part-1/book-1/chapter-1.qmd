@@ -1,9 +1,0 @@
-# Volume 2, Part 1, Book 1, Chapter 1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-## Overview
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-To compare supporting artifacts, review [table 1.1.2.1.1.1](../../../volume-1/part-1/book-2/chapter-1.qmd#table-1-1-2-1-1-1), [plot 1.2.2.1.1.1](../../../volume-1/part-2/book-2/chapter-1.qmd#plot-1-2-2-1-1-1), and [equation 1.2.2.2.1.1](../../../volume-1/part-2/book-2/chapter-2.qmd#equation-1-2-2-2-1-1) for examples from volume 1.

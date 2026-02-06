@@ -3,30 +3,38 @@ project:
 
 book:
   title: "Textbook Template"
-  subtitle: "Multi-volume Quarto/R structure"
+  subtitle: "Multi-part Quarto/R structure"
   author: "Your Name"
   chapters:
     - index.qmd
-    - part: "Volume 1"
+    - frontmatter/how-to-read.qmd
+    - part: "Part 1"
       chapters:
-        - source/volume-1/part-1/book-1/chapter-1.qmd
-        - source/volume-1/part-1/book-1/chapter-2.qmd
-        - source/volume-1/part-1/book-2/chapter-1.qmd
-        - source/volume-1/part-1/book-2/chapter-2.qmd
-        - source/volume-1/part-2/book-1/chapter-1.qmd
-        - source/volume-1/part-2/book-1/chapter-2.qmd
-        - source/volume-1/part-2/book-2/chapter-1.qmd
-        - source/volume-1/part-2/book-2/chapter-2.qmd
-    - part: "Volume 2"
+        - source/part-1/book-1/chapter-1.qmd
+        - source/part-1/book-1/chapter-2.qmd
+        - source/part-1/book-2/chapter-1.qmd
+        - source/part-1/book-2/chapter-2.qmd
+    - part: "Part 2"
       chapters:
-        - source/volume-2/part-1/book-1/chapter-1.qmd
-        - source/volume-2/part-1/book-1/chapter-2.qmd
-        - source/volume-2/part-1/book-2/chapter-1.qmd
-        - source/volume-2/part-1/book-2/chapter-2.qmd
-        - source/volume-2/part-2/book-1/chapter-1.qmd
-        - source/volume-2/part-2/book-1/chapter-2.qmd
-        - source/volume-2/part-2/book-2/chapter-1.qmd
-        - source/volume-2/part-2/book-2/chapter-2.qmd
+        - source/part-2/book-1/chapter-1.qmd
+        - source/part-2/book-1/chapter-2.qmd
+        - source/part-2/book-2/chapter-1.qmd
+        - source/part-2/book-2/chapter-2.qmd
+    - part: "Part 3"
+      chapters:
+        - source/part-3/book-1/chapter-1.qmd
+        - source/part-3/book-1/chapter-2.qmd
+        - source/part-3/book-2/chapter-1.qmd
+        - source/part-3/book-2/chapter-2.qmd
+    - part: "Part 4"
+      chapters:
+        - source/part-4/book-1/chapter-1.qmd
+        - source/part-4/book-1/chapter-2.qmd
+        - source/part-4/book-2/chapter-1.qmd
+        - source/part-4/book-2/chapter-2.qmd
+  appendices:
+    - source/appendices/appendix-a.qmd
+    - source/appendices/appendix-b.qmd
 
 format:
   html:
