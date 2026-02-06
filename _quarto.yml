@@ -2,31 +2,31 @@ project:
   type: book
 
 book:
-  title: "Textbook Template"
+  title: "Measurement, Abstraction, and Information in the Natural World"
   subtitle: "Multi-part Quarto/R structure"
-  author: "Your Name"
+  author: "Prometheus"
   chapters:
     - index.qmd
     - frontmatter/how-to-read.qmd
-    - part: "Part 1"
+    - part: "Slothful Apex"
       chapters:
         - source/part-1/book-1/chapter-1.qmd
         - source/part-1/book-1/chapter-2.qmd
         - source/part-1/book-2/chapter-1.qmd
         - source/part-1/book-2/chapter-2.qmd
-    - part: "Part 2"
+    - part: "Avid Wanderlust"
       chapters:
         - source/part-2/book-1/chapter-1.qmd
         - source/part-2/book-1/chapter-2.qmd
         - source/part-2/book-2/chapter-1.qmd
         - source/part-2/book-2/chapter-2.qmd
-    - part: "Part 3"
+    - part: "Luminous Quirk"
       chapters:
         - source/part-3/book-1/chapter-1.qmd
         - source/part-3/book-1/chapter-2.qmd
         - source/part-3/book-2/chapter-1.qmd
         - source/part-3/book-2/chapter-2.qmd
-    - part: "Part 4"
+    - part: "Oblique Jubilee"
       chapters:
         - source/part-4/book-1/chapter-1.qmd
         - source/part-4/book-1/chapter-2.qmd
@@ -39,9 +39,11 @@ book:
 format:
   html:
     toc: true
+    lof: true
     output-dir: output/html
     css: styles.css
   pdf:
     toc: true
+    lof: true
     output-dir: output/pdf
     documentclass: book
