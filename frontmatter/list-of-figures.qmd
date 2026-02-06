@@ -1,0 +1,3 @@
+# iv. List of figures, plots, and diagrams
+
+\listoffigures
