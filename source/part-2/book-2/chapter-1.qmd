@@ -8,13 +8,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Section 1 (2.2.1.1) {#sec-2-2-1-1}
 
-### Plot 2.2.1.1.1 {#plot-2-2-1-1-1}
-
+::: {#plot-2-2-1-1-1}
 <figure>
   <svg width="240" height="100" viewBox="0 0 240 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Simple trend line plot">
     <polyline fill="none" stroke="#2b6cb0" stroke-width="3" points="10,80 70,60 130,55 190,30 230,20"/>
     <line x1="10" y1="85" x2="230" y2="85" stroke="#555" />
     <line x1="10" y1="20" x2="10" y2="85" stroke="#555" />
   </svg>
-  <figcaption>Plot 2.2.1.1.1: A rising trend line indicating steady progress over time.</figcaption>
 </figure>
+
+<p class="caption">Plot 2.2.1.1.1: A rising trend line indicating steady progress over time.</p>
+:::
