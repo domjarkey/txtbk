@@ -5,3 +5,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 ## Overview
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Section 1 (2.1.2.2.1) {#sec-2-1-2-2-1}
+
+### Equation 2.1.2.2.1.1 {#equation-2-1-2-2-1-1}
+
+$$
+S = \frac{q}{t} \times 100
+$$
+
+In this placeholder equation, $S$ represents a scoring percentage derived from quality $q$ over time $t$.

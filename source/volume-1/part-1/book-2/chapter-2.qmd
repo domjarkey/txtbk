@@ -5,3 +5,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 ## Overview
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+For a broader roadmap, see volume 2, part 1.2, and book 2.1.1, along with chapter 2.2.1.1 and section 1.1.1.2.1 for a concrete section example. When reviewing artifacts, compare [figure 1.1.1.1.1.1](../book-1/chapter-1.qmd#figure-1-1-1-1-1-1), [code block 2.1.2.1.1.1](../../../volume-2/part-1/book-2/chapter-1.qmd#code-2-1-2-1-1-1), [plot 2.2.1.2.1.1](../../../volume-2/part-2/book-1/chapter-2.qmd#plot-2-2-1-2-1-1), and [equation 2.1.2.2.1.1](../../../volume-2/part-1/book-2/chapter-2.qmd#equation-2-1-2-2-1-1).

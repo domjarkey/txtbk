@@ -5,3 +5,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 ## Overview
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Section 1 (2.1.1.2.1) {#sec-2-1-1-2-1}
+
+### Table 2.1.1.2.1.1 {#table-2-1-1-2-1-1}
+
+| Metric | Description | Target |
+| --- | --- | --- |
+| Coverage | Portion of topic mapped | 80% |
+| Depth | Detail per topic | Medium |
+| Alignment | Fit with objectives | High |

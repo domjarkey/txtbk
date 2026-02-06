@@ -5,3 +5,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 ## Overview
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Section 1 (1.1.1.2.1) {#sec-1-1-1-2-1}
+
+### Text Box 1.1.1.2.1.1 {#textbox-1-1-1-2-1-1}
+
+> **Key takeaway.** A concise summary helps readers remember the intent of this placeholder text box and how it supports the chapter narrative.

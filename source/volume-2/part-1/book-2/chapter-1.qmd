@@ -5,3 +5,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 ## Overview
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Section 1 (2.1.2.1.1) {#sec-2-1-2-1-1}
+
+### Code Block 2.1.2.1.1.1 {#code-2-1-2-1-1-1}
+
+```json
+{
+  "volume": 2,
+  "part": 1,
+  "book": 2,
+  "chapter": 1,
+  "section": 1,
+  "purpose": "Illustrate a structured metadata record."
+}
+```
