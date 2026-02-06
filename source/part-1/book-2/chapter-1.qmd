@@ -8,10 +8,12 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Section 1 (1.2.1.1) {#sec-1-2-1-1}
 
-### Table 1.2.1.1.1 {#table-1-2-1-1-1}
-
+::: {#table-1-2-1-1-1}
 | Phase | Focus | Outcome |
 | --- | --- | --- |
 | Discover | Gather observations | Shared context |
 | Define | Clarify scope | Actionable goals |
 | Deliver | Execute plan | Measurable results |
+
+<p class="caption">Table 1.2.1.1.1: Core project phases and outcomes.</p>
+:::

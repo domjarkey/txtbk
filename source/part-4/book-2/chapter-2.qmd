@@ -8,11 +8,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Section 1 (4.2.2.1) {#sec-4-2-2-1}
 
-<figure id="figure-4-2-2-1-1">
+::: {#figure-4-2-2-1-1}
+<figure>
   <svg width="240" height="90" viewBox="0 0 240 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Layered components diagram">
     <rect x="20" y="55" width="200" height="20" fill="#edf2f7" stroke="#4a5568"/>
     <rect x="40" y="35" width="160" height="20" fill="#e2e8f0" stroke="#2d3748"/>
     <rect x="60" y="15" width="120" height="20" fill="#cbd5e0" stroke="#1a202c"/>
   </svg>
-  <figcaption>Figure 4.2.2.1.1: A layered stack showing how components build on one another.</figcaption>
 </figure>
+
+<p class="caption">Figure 4.2.2.1.1: A layered stack showing how components build on one another.</p>
+:::

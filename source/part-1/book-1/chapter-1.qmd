@@ -8,7 +8,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Section 1 (1.1.1.1) {#sec-1-1-1-1}
 
-<figure id="figure-1-1-1-1-1">
+::: {#figure-1-1-1-1-1}
+<figure>
   <svg width="220" height="90" viewBox="0 0 220 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Three stage workflow diagram">
     <rect x="10" y="20" width="60" height="40" fill="#e6f2ff" stroke="#1a4d80"/>
     <rect x="80" y="20" width="60" height="40" fill="#e8ffe6" stroke="#1a8030"/>
@@ -17,5 +18,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
     <text x="110" y="45" font-size="12" text-anchor="middle" fill="#1a8030">Process</text>
     <text x="180" y="45" font-size="12" text-anchor="middle" fill="#804d1a">Output</text>
   </svg>
-  <figcaption>Figure 1.1.1.1.1: A simple three-stage workflow used as a placeholder diagram.</figcaption>
 </figure>
+
+<p class="caption">Figure 1.1.1.1.1: A simple three-stage workflow used as a placeholder diagram.</p>
+:::

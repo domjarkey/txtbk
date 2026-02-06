@@ -23,10 +23,20 @@ These instructions apply to the entire repository unless a more specific `AGENTS
   :::
   ```
   Appendices use the same wrapper with their appendix-specific IDs (for example, `#eq-appendix-a-energy`).
-- **Figures/plots** use `<figure>` elements with an `id` and include a `<figcaption>` that matches the artifact numbering.
-- **Tables** use a `###` heading with the label and anchor (for example, `### Table 1.2.1.1.1 {#table-1-2-1-1-1}`).
-- **Text boxes** are blockquotes followed by `{: .definition}` or another class as needed.
-- **Code blocks** include a `### Code Block ... {#code-...}` heading and a fenced code block with the proper language.
+- **Text boxes, definitions, figures, plots, tables, and code blocks** must be wrapped in a div with their anchor ID and must not use subheaders.
+  - Use `::: {#<id>}` (plus a class like `.definition` for text boxes) to wrap the artifact content.
+  - Place the caption below the artifact content inside the same div.
+  - Captions are plain paragraphs (no subheader) that include the numbering and optional description, e.g. `Figure 1.1.1.1.1: Description.`.
+  - Example:
+    ```
+    ::: {#figure-1-1-1-1-1}
+    <figure>
+      ...
+    </figure>
+
+    <p class="caption">Figure 1.1.1.1.1: A simple three-stage workflow.</p>
+    :::
+    ```
 
 ## References and links
 - Use Quarto cross-references (`@id`) for equations, figures, tables, and other artifacts.

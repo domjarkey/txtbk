@@ -8,8 +8,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Section 1 (2.1.2.1) {#sec-2-1-2-1}
 
-### Code Block 2.1.2.1.1 {#code-2-1-2-1-1}
-
+::: {#code-2-1-2-1-1}
 ```python
 def summarize_scope(part, book, chapter, section):
     return f"{part}.{book}.{chapter}.{section}"
@@ -18,7 +17,11 @@ summary = summarize_scope(2, 1, 2, 1)
 print(f"Scope identifier: {summary}")
 ```
 
-### Definition 2.1.2.1.2 {#definition-2-1-2-1-2}
+<p class="caption">Code Block 2.1.2.1.1: Example output for a scope identifier.</p>
+:::
 
-> **Definition (Scope identifier).** A scope identifier is the four-part label that maps a topic to its part, book, chapter, and section.
-{: .definition}
+::: {#definition-2-1-2-1-2 .definition}
+> A scope identifier is the four-part label that maps a topic to its part, book, chapter, and section.
+
+<p class="caption">Definition 2.1.2.1.2: Scope identifier.</p>
+:::
