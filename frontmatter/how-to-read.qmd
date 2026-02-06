@@ -18,6 +18,7 @@ When an artifact is referenced in text, the number and label match the pattern a
 - **Definitions** use `part.book.chapter.section.definition` (for example, “Definition 2.1.2.1.2”).
 - **Code blocks** use `part.book.chapter.section.code` (for example, “Code Block 2.1.2.1.1”).
 - **Equations** use `part.book.chapter.section.equation` (for example, “Equation 3.2.2.1.1”).
+- **Epigraphs** and **quotes** are styled artifacts that do not use numbering; they are referenced by their surrounding section context.
 
 ## How to interpret artifacts
 
@@ -27,5 +28,6 @@ When an artifact is referenced in text, the number and label match the pattern a
 - **Text boxes** call out key takeaways, warnings, or contextual notes.
 - **Definitions** formalize key terms so they can be referenced elsewhere in the text.
 - **Equations** summarize mathematical relationships used in proofs or derivations.
+- **Epigraphs** introduce a chapter or section with a styled quotation, and **quotes** insert a styled quotation within the flow of text. Use `.epigraph` or `.quote` wrappers and place the attribution after a long dash in a paragraph with the `.attribution` class so it renders unitalicized.
 
 Use the numbering to trace references across parts and books quickly, and rely on the artifact labels to understand the type of content being cited.
