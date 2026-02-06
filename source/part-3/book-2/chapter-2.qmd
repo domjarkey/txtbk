@@ -8,10 +8,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Section 1 (3.2.2.1) {#sec-3-2-2-1}
 
-### Equation 3.2.2.1.1 {#equation-3-2-2-1-1}
-
 $$
 S = \frac{q}{t} \times 100
-$$
+\tag{3.2.2.1.1}
+$${#equation-3-2-2-1-1}
 
 In this placeholder equation, $S$ represents a scoring percentage derived from quality $q$ over time $t$.
