@@ -22,5 +22,5 @@ Equation @eq-appendix-b-geom yields the bound $S_n \le \frac{1}{1-r}$ when $0 < 
   </svg>
 </figure>
 
-<p class="caption">Plot B.1: A decaying sequence visualized as a trend line.</p>
+<p class="caption"><strong>Plot B.1:</strong> A decaying sequence visualized as a trend line.</p>
 :::

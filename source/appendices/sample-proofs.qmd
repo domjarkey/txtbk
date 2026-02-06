@@ -22,5 +22,5 @@ By Equation @eq-appendix-a-energy, the energy grows monotonically for all $t \ge
   </svg>
 </figure>
 
-<p class="caption">Plot A.1: A stylized curve illustrating the monotone energy estimate.</p>
+<p class="caption"><strong>Plot A.1:</strong> A stylized curve illustrating the monotone energy estimate.</p>
 :::

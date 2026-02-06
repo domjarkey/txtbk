@@ -8,6 +8,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Section 1 (1.1.2.1) {#sec-1-1-2-1}
 
-### Text Box 1.1.2.1.1 {#textbox-1-1-2-1-1}
+::: {#textbox-1-1-2-1-1 .textbox}
+> **Key takeaway:** A concise summary helps readers remember the intent of this placeholder text box and how it supports the chapter narrative.
 
-> **Key takeaway.** A concise summary helps readers remember the intent of this placeholder text box and how it supports the chapter narrative.
+<p class="caption"><strong>Text Box 1.1.2.1.1:</strong> A concise summary that reinforces the section theme.</p>
+:::

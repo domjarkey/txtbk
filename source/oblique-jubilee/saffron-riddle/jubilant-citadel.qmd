@@ -17,5 +17,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   </svg>
 </figure>
 
-<p class="caption">Figure 4.2.2.1.1: A layered stack showing how components build on one another.</p>
+<p class="caption"><strong>Figure 4.2.2.1.1:</strong> A layered stack showing how components build on one another.</p>
 :::

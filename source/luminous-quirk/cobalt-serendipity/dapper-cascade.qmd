@@ -15,5 +15,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 | Depth | Detail per topic | Medium |
 | Alignment | Fit with objectives | High |
 
-<p class="caption">Table 3.1.2.1.1: Target metrics for topic coverage.</p>
+<p class="caption"><strong>Table 3.1.2.1.1:</strong> Target metrics for topic coverage.</p>
 :::

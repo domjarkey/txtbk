@@ -8,6 +8,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Section 1 (4.1.1.1) {#sec-4-1-1-1}
 
-### Text Box 4.1.1.1.1 {#textbox-4-1-1-1-1}
+::: {#textbox-4-1-1-1-1 .textbox}
+> **Context note:** This text box highlights the intent to keep references consistent across every division.
 
-> **Context note.** This text box highlights the intent to keep references consistent across every division.
+<p class="caption"><strong>Text Box 4.1.1.1.1:</strong> A reminder to keep references consistent across divisions.</p>
+:::

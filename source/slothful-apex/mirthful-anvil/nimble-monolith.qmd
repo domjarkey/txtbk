@@ -15,5 +15,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 | Define | Clarify scope | Actionable goals |
 | Deliver | Execute plan | Measurable results |
 
-<p class="caption">Table 1.2.1.1.1: Core project phases and outcomes.</p>
+<p class="caption"><strong>Table 1.2.1.1.1:</strong> Core project phases and outcomes.</p>
 :::
