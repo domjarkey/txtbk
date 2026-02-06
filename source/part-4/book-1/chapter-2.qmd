@@ -1,4 +1,4 @@
-# Volume 2, Part 2, Book 1, Chapter 2
+# Part 4, Book 1, Chapter 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -6,9 +6,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-## Section 1 (2.2.1.2.1) {#sec-2-2-1-2-1}
+## Section 1 (4.1.2.1) {#sec-4-1-2-1}
 
-### Plot 2.2.1.2.1.1 {#plot-2-2-1-2-1-1}
+### Plot 4.1.2.1.1 {#plot-4-1-2-1-1}
 
 <figure>
   <svg width="240" height="100" viewBox="0 0 240 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Comparison bar chart">
@@ -17,5 +17,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
     <rect x="120" y="20" width="30" height="70" fill="#2d3748"/>
     <rect x="170" y="40" width="30" height="50" fill="#1a202c"/>
   </svg>
-  <figcaption>Plot 2.2.1.2.1.1: A bar chart comparing four baseline categories.</figcaption>
+  <figcaption>Plot 4.1.2.1.1: A bar chart comparing four baseline categories.</figcaption>
 </figure>

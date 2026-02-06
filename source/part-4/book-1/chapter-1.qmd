@@ -1,0 +1,13 @@
+# Part 4, Book 1, Chapter 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Overview
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Section 1 (4.1.1.1) {#sec-4-1-1-1}
+
+### Text Box 4.1.1.1.1 {#textbox-4-1-1-1-1}
+
+> **Context note.** This text box highlights the intent to keep references consistent across every division.

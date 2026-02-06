@@ -1,4 +1,4 @@
-# Volume 1, Part 1, Book 2, Chapter 1
+# Part 1, Book 2, Chapter 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -6,9 +6,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-## Section 1 (1.1.2.1.1) {#sec-1-1-2-1-1}
+## Section 1 (1.2.1.1) {#sec-1-2-1-1}
 
-### Table 1.1.2.1.1.1 {#table-1-1-2-1-1-1}
+### Table 1.2.1.1.1 {#table-1-2-1-1-1}
 
 | Phase | Focus | Outcome |
 | --- | --- | --- |
