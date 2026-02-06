@@ -9,24 +9,48 @@ book:
     - index.qmd
     - part: "Volume 1"
       chapters:
-        - source/volume-1/part-1/book-1/chapter-1.qmd
-        - source/volume-1/part-1/book-1/chapter-2.qmd
-        - source/volume-1/part-1/book-2/chapter-1.qmd
-        - source/volume-1/part-1/book-2/chapter-2.qmd
-        - source/volume-1/part-2/book-1/chapter-1.qmd
-        - source/volume-1/part-2/book-1/chapter-2.qmd
-        - source/volume-1/part-2/book-2/chapter-1.qmd
-        - source/volume-1/part-2/book-2/chapter-2.qmd
+        - file: source/volume-1/part-1/index.qmd
+          sections:
+            - file: source/volume-1/part-1/book-1/index.qmd
+              sections:
+                - source/volume-1/part-1/book-1/chapter-1.qmd
+                - source/volume-1/part-1/book-1/chapter-2.qmd
+            - file: source/volume-1/part-1/book-2/index.qmd
+              sections:
+                - source/volume-1/part-1/book-2/chapter-1.qmd
+                - source/volume-1/part-1/book-2/chapter-2.qmd
+        - file: source/volume-1/part-2/index.qmd
+          sections:
+            - file: source/volume-1/part-2/book-1/index.qmd
+              sections:
+                - source/volume-1/part-2/book-1/chapter-1.qmd
+                - source/volume-1/part-2/book-1/chapter-2.qmd
+            - file: source/volume-1/part-2/book-2/index.qmd
+              sections:
+                - source/volume-1/part-2/book-2/chapter-1.qmd
+                - source/volume-1/part-2/book-2/chapter-2.qmd
     - part: "Volume 2"
       chapters:
-        - source/volume-2/part-1/book-1/chapter-1.qmd
-        - source/volume-2/part-1/book-1/chapter-2.qmd
-        - source/volume-2/part-1/book-2/chapter-1.qmd
-        - source/volume-2/part-1/book-2/chapter-2.qmd
-        - source/volume-2/part-2/book-1/chapter-1.qmd
-        - source/volume-2/part-2/book-1/chapter-2.qmd
-        - source/volume-2/part-2/book-2/chapter-1.qmd
-        - source/volume-2/part-2/book-2/chapter-2.qmd
+        - file: source/volume-2/part-1/index.qmd
+          sections:
+            - file: source/volume-2/part-1/book-1/index.qmd
+              sections:
+                - source/volume-2/part-1/book-1/chapter-1.qmd
+                - source/volume-2/part-1/book-1/chapter-2.qmd
+            - file: source/volume-2/part-1/book-2/index.qmd
+              sections:
+                - source/volume-2/part-1/book-2/chapter-1.qmd
+                - source/volume-2/part-1/book-2/chapter-2.qmd
+        - file: source/volume-2/part-2/index.qmd
+          sections:
+            - file: source/volume-2/part-2/book-1/index.qmd
+              sections:
+                - source/volume-2/part-2/book-1/chapter-1.qmd
+                - source/volume-2/part-2/book-1/chapter-2.qmd
+            - file: source/volume-2/part-2/book-2/index.qmd
+              sections:
+                - source/volume-2/part-2/book-2/chapter-1.qmd
+                - source/volume-2/part-2/book-2/chapter-2.qmd
 
 format:
   html:
