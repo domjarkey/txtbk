@@ -5,3 +5,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 ## Overview
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Section 1 (1.2.1.2.1) {#sec-1-2-1-2-1}
+
+### Code Block 1.2.1.2.1.1 {#code-1-2-1-2-1-1}
+
+```python
+def summarize_scope(volume, part, book, chapter, section):
+    return f"{volume}.{part}.{book}.{chapter}.{section}"
+
+summary = summarize_scope(1, 2, 1, 2, 1)
+print(f"Scope identifier: {summary}")
+```

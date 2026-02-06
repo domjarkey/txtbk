@@ -5,3 +5,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 ## Overview
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Section 1 (1.1.2.1.1) {#sec-1-1-2-1-1}
+
+### Table 1.1.2.1.1.1 {#table-1-1-2-1-1-1}
+
+| Phase | Focus | Outcome |
+| --- | --- | --- |
+| Discover | Gather observations | Shared context |
+| Define | Clarify scope | Actionable goals |
+| Deliver | Execute plan | Measurable results |

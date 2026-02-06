@@ -5,3 +5,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 ## Overview
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+The narrative connects to [figure 2.2.2.2.1.1](../../../volume-2/part-2/book-2/chapter-2.qmd#figure-2-2-2-2-1-1), [table 2.1.1.2.1.1](../../../volume-2/part-1/book-1/chapter-2.qmd#table-2-1-1-2-1-1), and [text box 2.2.1.1.1.1](../../../volume-2/part-2/book-1/chapter-1.qmd#textbox-2-2-1-1-1-1) to illustrate how the numbering scheme stays consistent across volumes.
