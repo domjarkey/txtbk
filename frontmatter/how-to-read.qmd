@@ -15,6 +15,7 @@ When an artifact is referenced in text, the number and label match the pattern a
 - **Figures** and **plots** use `part.book.chapter.section.figure` (for example, “Figure 1.1.1.1.1” or “Plot 4.1.2.1.1”).
 - **Tables** use `part.book.chapter.section.table` (for example, “Table 1.2.1.1.1”).
 - **Text boxes** use `part.book.chapter.section.textbox` (for example, “Text Box 4.1.1.1.1”).
+- **Definitions** use `part.book.chapter.section.definition` (for example, “Definition 2.1.2.1.2”).
 - **Code blocks** use `part.book.chapter.section.code` (for example, “Code Block 2.1.2.1.1”).
 - **Equations** use `part.book.chapter.section.equation` (for example, “Equation 3.2.2.1.1”).
 
@@ -24,6 +25,7 @@ When an artifact is referenced in text, the number and label match the pattern a
 - **Plots** and **figures** provide visual summaries; plots emphasize data trends, while figures depict diagrams or layouts.
 - **Tables** highlight structured comparisons or checklists.
 - **Text boxes** call out key takeaways, warnings, or contextual notes.
+- **Definitions** formalize key terms so they can be referenced elsewhere in the text.
 - **Equations** summarize mathematical relationships used in proofs or derivations.
 
 Use the numbering to trace references across parts and books quickly, and rely on the artifact labels to understand the type of content being cited.

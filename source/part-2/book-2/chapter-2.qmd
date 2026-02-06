@@ -8,10 +8,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Section 1 (2.2.2.1) {#sec-2-2-2-1}
 
-### Equation 2.2.2.1.1 {#equation-2-2-2-1-1}
-
 $$
 E = \frac{c}{n} + r
-$$
+\tag{2.2.2.1.1}
+$${#equation-2-2-2-1-1}
 
 Here, $E$ represents the estimated effort, $c$ is baseline complexity, $n$ is team size, and $r$ is a fixed review overhead.

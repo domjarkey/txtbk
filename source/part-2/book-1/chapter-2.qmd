@@ -17,3 +17,8 @@ def summarize_scope(part, book, chapter, section):
 summary = summarize_scope(2, 1, 2, 1)
 print(f"Scope identifier: {summary}")
 ```
+
+### Definition 2.1.2.1.2 {#definition-2-1-2-1-2}
+
+> **Definition (Scope identifier).** A scope identifier is the four-part label that maps a topic to its part, book, chapter, and section.
+{: .definition}

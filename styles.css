@@ -1,0 +1,26 @@
+figure,
+.quarto-figure,
+.quarto-float {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+figure > svg,
+figure > img,
+.quarto-figure > img,
+.quarto-float > img {
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  text-align: center;
+}
+
+.definition {
+  border-left: 4px solid #4c6ef5;
+  background: #f5f7ff;
+  padding: 0.75rem 1rem;
+  border-radius: 6px;
+}
