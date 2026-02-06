@@ -28,3 +28,24 @@ figcaption {
   padding: 0.75rem 1rem;
   border-radius: 6px;
 }
+
+.epigraph,
+.quote {
+  border-left: 4px solid #adb5bd;
+  background: #f8f9fa;
+  padding: 0.75rem 1rem;
+  border-radius: 6px;
+  font-style: italic;
+  margin: 1.5rem 0;
+}
+
+.epigraph p:last-child,
+.quote p:last-child {
+  margin-bottom: 0;
+}
+
+.epigraph .attribution,
+.quote .attribution {
+  font-style: normal;
+  margin-top: 0.5rem;
+}
