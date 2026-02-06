@@ -1,0 +1,38 @@
+project:
+  type: book
+
+book:
+  title: "Textbook Template"
+  subtitle: "Multi-volume Quarto/R structure"
+  author: "Your Name"
+  chapters:
+    - index.qmd
+    - part: "Volume 1"
+      chapters:
+        - source/volume-1/part-1/book-1/chapter-1.qmd
+        - source/volume-1/part-1/book-1/chapter-2.qmd
+        - source/volume-1/part-1/book-2/chapter-1.qmd
+        - source/volume-1/part-1/book-2/chapter-2.qmd
+        - source/volume-1/part-2/book-1/chapter-1.qmd
+        - source/volume-1/part-2/book-1/chapter-2.qmd
+        - source/volume-1/part-2/book-2/chapter-1.qmd
+        - source/volume-1/part-2/book-2/chapter-2.qmd
+    - part: "Volume 2"
+      chapters:
+        - source/volume-2/part-1/book-1/chapter-1.qmd
+        - source/volume-2/part-1/book-1/chapter-2.qmd
+        - source/volume-2/part-1/book-2/chapter-1.qmd
+        - source/volume-2/part-1/book-2/chapter-2.qmd
+        - source/volume-2/part-2/book-1/chapter-1.qmd
+        - source/volume-2/part-2/book-1/chapter-2.qmd
+        - source/volume-2/part-2/book-2/chapter-1.qmd
+        - source/volume-2/part-2/book-2/chapter-2.qmd
+
+format:
+  html:
+    toc: true
+    output-dir: output/html
+  pdf:
+    toc: true
+    output-dir: output/pdf
+    documentclass: book

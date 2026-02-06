@@ -1,0 +1,7 @@
+---
+title: "Textbook Template"
+subtitle: "Multi-volume Quarto/R structure"
+author: "Your Name"
+---
+
+Welcome to the textbook template. This project demonstrates a nested source structure with volumes, parts, books, and chapters rendered into a single HTML and PDF output.
