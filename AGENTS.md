@@ -11,6 +11,7 @@ These instructions apply to the entire repository unless a more specific `AGENTS
 - Chapter titles use a level-1 heading (`#`), section titles use a level-2 heading (`##`).
 - Section anchors follow the pattern `#sec-<part>-<book>-<chapter>-<section>`.
 - Artifact labels include their type in the visible title and use an ID that matches the numbering scheme.
+- Frontmatter entries use lower-case roman numerals (i, ii, iii, iv, ...) in their displayed titles and navigation labels so part numbering begins at Part 1.
 
 ## Artifact standards
 - **Equations must be wrapped in a div** so they can be referenced without a visible tag in text. Use this exact format:

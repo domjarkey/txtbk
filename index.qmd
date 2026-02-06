@@ -4,4 +4,6 @@ subtitle: "Multi-part Quarto/R structure"
 author: "Prometheus"
 ---
 
+# i. Title page
+
 Welcome to the textbook template. This project demonstrates a nested source structure with parts, books, and chapters rendered into a single HTML and PDF output.
