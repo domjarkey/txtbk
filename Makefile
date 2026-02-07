@@ -5,10 +5,10 @@ QUARTO = quarto
 all: html pdf
 
 html:
-	$(QUARTO) render --to html --output-dir output
+	$(QUARTO) render --to html --output-dir html_book
 
 pdf:
-	$(QUARTO) render --to pdf --output-dir output
+	$(QUARTO) render --to pdf --output-dir pdf_book
 
 clean:
-	rm -rf output
+	rm -rf html_book pdf_book
