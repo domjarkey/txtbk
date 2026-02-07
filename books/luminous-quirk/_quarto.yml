@@ -21,5 +21,4 @@ format:
   html:
     toc: true
     lof: true
-    output-dir: ../../site/luminous-quirk
     css: ../../styles.css

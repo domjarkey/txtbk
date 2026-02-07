@@ -21,5 +21,4 @@ format:
   html:
     toc: true
     lof: true
-    output-dir: ../../site/slothful-apex
     css: ../../styles.css
