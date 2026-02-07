@@ -4,7 +4,11 @@ project:
 book:
   title: "Appendices"
   subtitle: "Measurement, Abstraction, and Information in the Natural World"
-  author: "Prometheus"
+  author:
+    - name: "Prometheus"
+      role: "lead author"
+    - name: "Epimetheus"
+      role: "co-author"
   chapters:
     - index.qmd
     - source/sample-proofs.qmd

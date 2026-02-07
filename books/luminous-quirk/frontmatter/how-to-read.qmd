@@ -1,5 +1,9 @@
 # ii. How to read this book {.unnumbered}
 
+::: {.callout-note}
+This book is part of a larger volume called *Measurement, Abstraction, and Information in the Natural World*.
+:::
+
 This book is organized into **parts** and **chapters**. Each chapter contains numbered sections and learning artifacts. Quarto assigns the numbering automatically, so headings and captions should not include hard-coded numbers.
 
 ## Reference conventions
