@@ -1,9 +1,3 @@
----
-title: "Measurement, Abstraction, and Information in the Natural World"
-subtitle: "Multi-part Quarto/R structure"
-author: "Prometheus"
----
-
-# i. Title page
+# i. Title page {.unnumbered}
 
 Welcome to the textbook template. This project demonstrates a nested source structure with parts, books, and chapters rendered into a single HTML and PDF output.

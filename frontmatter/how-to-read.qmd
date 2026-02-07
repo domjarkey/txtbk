@@ -1,4 +1,4 @@
-# ii. How to read this book
+# ii. How to read this book {.unnumbered}
 
 This book is organized into **parts**, **books**, and **chapters**. Each chapter contains numbered sections and learning artifacts. The numbering scheme always follows the same pattern:
 
