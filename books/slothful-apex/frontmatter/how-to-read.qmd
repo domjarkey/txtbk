@@ -4,24 +4,24 @@
 This book is part of a larger volume called "Measurement, Abstraction, and Information in the Natural World".
 :::
 
-This book is organised into **parts** and **chapters**. Each chapter contains numbered sections and learning artifacts. Quarto assigns the numbering automatically, so headings and captions should not include hard-coded numbers.
+This book is organised into **parts** and **chapters**. Each chapter contains numbered sections and learning artefacts. Quarto assigns the numbering automatically, so headings and captions should not include hard-coded numbers.
 
 ## Reference conventions
 
-When an artifact is referenced in text, rely on Quarto's native labels and numbering.
+When an artefact is referenced in text, rely on Quarto's native labels and numbering.
 
 - **Sections** are numbered automatically based on the part and chapter structure.
 - **Figures**, **plots**, **tables**, **equations**, and **code listings** use Quarto's native captions and labels.
 - **Callouts** (including definitions and text boxes) are unnumbered; link to them using their anchor IDs.
-- **Epigraphs** and **quotes** are styled artifacts that do not use numbering; they are referenced by their surrounding section context.
+- **Epigraphs** and **quotes** are styled artefacts that do not use numbering; they are referenced by their surrounding section context.
 
-## How to interpret artifacts
+## How to interpret artefacts
 
 - **Code blocks** present structured snippets that illustrate a concept or a workflow.
 - **Plots** and **figures** provide visual summaries; plots emphasise data trends, while figures depict diagrams or layouts.
 - **Tables** highlight structured comparisons or checklists.
 - **Callouts** highlight key takeaways, warnings, contextual notes, and definitions. Definitions use a callout with a custom title.
 - **Equations** summarise mathematical relationships used in proofs or derivations.
-- **Epigraphs** introduce a chapter or section with a styled quotation, and **quotes** insert a styled quotation within the flow of text. Use `.epigraph` or `.quote` wrappers and place the attribution after a long dash in a paragraph with the `.attribution` class so it renders unitalicized.
+- **Epigraphs** introduce a chapter or section with a styled quotation, and **quotes** insert a styled quotation within the flow of text. Use `.epigraph` or `.quote` wrappers and place the attribution after a long dash in a paragraph with the `.attribution` class so it renders unitalicised.
 
-Use Quarto's numbering and labels to trace references across the book quickly, and rely on the artifact labels to understand the type of content being cited.
+Use Quarto's numbering and labels to trace references across the book quickly, and rely on the artefact labels to understand the type of content being cited.
