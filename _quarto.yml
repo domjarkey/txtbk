@@ -40,10 +40,10 @@ format:
   html:
     toc: true
     lof: true
-    output-dir: output/html
+    output-dir: html_book
     css: styles.css
   pdf:
     toc: true
     lof: true
-    output-dir: output/pdf
+    output-dir: pdf_book
     documentclass: book
