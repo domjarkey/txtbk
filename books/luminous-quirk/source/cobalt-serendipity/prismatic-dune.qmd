@@ -6,4 +6,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-To compare supporting artifacts, review the [project phases table](../../slothful-apex/mirthful-anvil/nimble-monolith.html#tbl-project-phases), the [trend line figure](../../avid-wanderlust/velvet-tundra/radiant-vortex.html#fig-radiant-vortex-trend), and the [effort model equation](../../avid-wanderlust/velvet-tundra/gentle-labyrinth.html#eq-gentle-labyrinth-effort) for examples from earlier books.
+To compare supporting artefacts, review the [project phases table](../../slothful-apex/mirthful-anvil/nimble-monolith.html#tbl-project-phases), the [trend line figure](../../avid-wanderlust/velvet-tundra/radiant-vortex.html#fig-radiant-vortex-trend), and the [effort model equation](../../avid-wanderlust/velvet-tundra/gentle-labyrinth.html#eq-gentle-labyrinth-effort) for examples from earlier books.
