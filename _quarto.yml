@@ -6,10 +6,8 @@ book:
   subtitle: "Multi-part Quarto/R structure"
   author: "Prometheus"
   chapters:
-    - file: index.qmd
-      text: "i. Title page"
-    - file: frontmatter/how-to-read.qmd
-      text: "ii. How to read this book"
+    - index.qmd
+    - frontmatter/how-to-read.qmd
     - part: "Slothful Apex"
       chapters:
         - source/slothful-apex/feral-zephyr/echoing-marble.qmd
