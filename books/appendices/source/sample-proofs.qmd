@@ -10,4 +10,4 @@ $$ {#eq-appendix-a-energy}
 
 By Equation @eq-appendix-a-energy, the energy grows monotonically for all $t \ge 0$.
 
-![A stylized curve illustrating the monotone energy estimate.](../assets/fig-appendix-a-growth.svg){#fig-appendix-a-growth}
+![A stylised curve illustrating the monotone energy estimate.](../assets/fig-appendix-a-growth.svg){#fig-appendix-a-growth}

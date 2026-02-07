@@ -10,4 +10,4 @@ $$ {#eq-appendix-b-geom}
 
 Equation @eq-appendix-b-geom yields the bound $S_n \le \frac{1}{1-r}$ when $0 < r < 1$.
 
-![A decaying sequence visualized as a trend line.](../assets/fig-appendix-b-decay.svg){#fig-appendix-b-decay}
+![A decaying sequence visualised as a trend line.](../assets/fig-appendix-b-decay.svg){#fig-appendix-b-decay}
