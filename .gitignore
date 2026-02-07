@@ -1,15 +1,8 @@
 # Quarto output
-html_book/
-pdf_book/
+books/
 
 # Quarto caches
 .quarto/
-_freeze/
-*_files/
-*_cache/
 
 # R/RStudio
 .Rproj.user/
-
-# OS
-.DS_Store
