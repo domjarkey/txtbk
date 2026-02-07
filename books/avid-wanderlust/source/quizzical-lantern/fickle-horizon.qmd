@@ -1,0 +1,21 @@
+# Avid Wanderlust — Quizzical Lantern — Fickle Horizon
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Overview
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Scope identifiers {#sec-fickle-horizon-scope}
+
+```{.python #lst-scope-identifier caption="Example output for a scope identifier."}
+def summarize_scope(part, book, chapter, section):
+    return f"{part}.{book}.{chapter}.{section}"
+
+summary = summarize_scope(2, 1, 2, 1)
+print(f"Scope identifier: {summary}")
+```
+
+::: {.callout-tip #callout-scope-identifier title="Definition: Scope identifier"}
+A <u>scope identifier</u> is the four-part label that maps a topic to its part, book, chapter, and section.
+:::

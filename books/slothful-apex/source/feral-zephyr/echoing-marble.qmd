@@ -1,0 +1,11 @@
+# Slothful Apex — Feral Zephyr — Echoing Marble
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Overview
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Workflow focus {#sec-echoing-marble-workflow}
+
+![A simple three-stage workflow used as a placeholder diagram.](../../assets/fig-echoing-marble-workflow.svg){#fig-echoing-marble-workflow}

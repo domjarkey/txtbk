@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "Avid Wanderlust"
+  subtitle: "Measurement, Abstraction, and Information in the Natural World"
+  author: "Prometheus"
+  chapters:
+    - index.qmd
+    - frontmatter/how-to-read.qmd
+    - part: "Quizzical Lantern"
+      chapters:
+        - source/quizzical-lantern/wistful-quartz.qmd
+        - source/quizzical-lantern/fickle-horizon.qmd
+    - part: "Velvet Tundra"
+      chapters:
+        - source/velvet-tundra/radiant-vortex.qmd
+        - source/velvet-tundra/gentle-labyrinth.qmd
+
+format:
+  html:
+    toc: true
+    lof: true
+    output-dir: ../../site/avid-wanderlust
+    css: ../../styles.css

@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "Luminous Quirk"
+  subtitle: "Measurement, Abstraction, and Information in the Natural World"
+  author: "Prometheus"
+  chapters:
+    - index.qmd
+    - frontmatter/how-to-read.qmd
+    - part: "Cobalt Serendipity"
+      chapters:
+        - source/cobalt-serendipity/prismatic-dune.qmd
+        - source/cobalt-serendipity/dapper-cascade.qmd
+    - part: "Gilded Thistle"
+      chapters:
+        - source/gilded-thistle/crimson-meadow.qmd
+        - source/gilded-thistle/hushed-topaz.qmd
+
+format:
+  html:
+    toc: true
+    lof: true
+    output-dir: ../../site/luminous-quirk
+    css: ../../styles.css

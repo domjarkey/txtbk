@@ -1,0 +1,13 @@
+# Appendix A: Sample proofs
+
+## Proof A.1
+
+We sketch a short proof that a quadratic growth bound implies a monotone energy estimate. Consider the identity below, which we treat as the starting point for the argument.
+
+$$
+E(t) = \int_0^t (x^2 + 1)\,dx = \frac{t^3}{3} + t
+$$ {#eq-appendix-a-energy}
+
+By Equation @eq-appendix-a-energy, the energy grows monotonically for all $t \ge 0$.
+
+![A stylized curve illustrating the monotone energy estimate.](../assets/fig-appendix-a-growth.svg){#fig-appendix-a-growth}

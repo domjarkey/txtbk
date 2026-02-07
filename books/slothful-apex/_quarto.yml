@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "Slothful Apex"
+  subtitle: "Measurement, Abstraction, and Information in the Natural World"
+  author: "Prometheus"
+  chapters:
+    - index.qmd
+    - frontmatter/how-to-read.qmd
+    - part: "Feral Zephyr"
+      chapters:
+        - source/feral-zephyr/echoing-marble.qmd
+        - source/feral-zephyr/brisk-chimera.qmd
+    - part: "Mirthful Anvil"
+      chapters:
+        - source/mirthful-anvil/nimble-monolith.qmd
+        - source/mirthful-anvil/sable-carousel.qmd
+
+format:
+  html:
+    toc: true
+    lof: true
+    output-dir: ../../site/slothful-apex
+    css: ../../styles.css

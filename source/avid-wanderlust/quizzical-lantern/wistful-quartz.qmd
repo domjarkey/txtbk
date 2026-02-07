@@ -1,9 +1,0 @@
-# Avid Wanderlust — Quizzical Lantern — Wistful Quartz
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-## Overview
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-The narrative connects to [figure 4.2.2.1.1](../../oblique-jubilee/saffron-riddle/jubilant-citadel.qmd#figure-4-2-2-1-1), [table 3.1.2.1.1](../../luminous-quirk/cobalt-serendipity/dapper-cascade.qmd#table-3-1-2-1-1), and [text box 4.1.1.1.1](../../oblique-jubilee/rustic-nebula/whimsical-barricade.qmd#textbox-4-1-1-1-1) to illustrate how the numbering scheme stays consistent across parts.

@@ -1,0 +1,9 @@
+# Avid Wanderlust — Quizzical Lantern — Wistful Quartz
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Overview
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+The narrative connects to the [layered components figure](../../oblique-jubilee/saffron-riddle/jubilant-citadel.html#fig-jubilant-citadel-layers), the [coverage targets table](../../luminous-quirk/cobalt-serendipity/dapper-cascade.html#tbl-dapper-cascade-metrics), and the [reference alignment callout](../../oblique-jubilee/rustic-nebula/whimsical-barricade.html#callout-consistent-references) to illustrate how cross-book references stay consistent.

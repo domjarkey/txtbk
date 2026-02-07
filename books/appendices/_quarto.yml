@@ -1,0 +1,18 @@
+project:
+  type: book
+
+book:
+  title: "Appendices"
+  subtitle: "Measurement, Abstraction, and Information in the Natural World"
+  author: "Prometheus"
+  chapters:
+    - index.qmd
+    - source/sample-proofs.qmd
+    - source/additional-proofs.qmd
+
+format:
+  html:
+    toc: true
+    lof: true
+    output-dir: ../../site/appendices
+    css: ../../styles.css

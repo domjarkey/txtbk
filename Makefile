@@ -1,14 +1,19 @@
 QUARTO = quarto
+BOOKS = slothful-apex avid-wanderlust luminous-quirk oblique-jubilee appendices
+SITE_DIR = site
 
-.PHONY: all html pdf clean
+.PHONY: all books index clean $(BOOKS)
 
-all: html pdf
+all: books index
 
-html:
-	$(QUARTO) render --to html --output-dir html_book
+books: $(BOOKS)
 
-pdf:
-	$(QUARTO) render --to pdf --output-dir pdf_book
+$(BOOKS):
+	$(QUARTO) render books/$@
+
+index:
+	mkdir -p $(SITE_DIR)
+	cp site-index.html $(SITE_DIR)/index.html
 
 clean:
-	rm -rf html_book pdf_book
+	rm -rf $(SITE_DIR)

@@ -1,0 +1,3 @@
+# i. Title page {.unnumbered}
+
+Welcome to the Oblique Jubilee book in the Measurement, Abstraction, and Information in the Natural World series. This book is organized into parts and chapters.
