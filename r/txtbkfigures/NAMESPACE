@@ -1,0 +1,7 @@
+export(scale_txtbk_colour)
+export(scale_txtbk_fill)
+export(scale_txtbk_linetype)
+export(scale_txtbk_shape)
+export(setup_txtbk_fonts)
+export(theme_txtbk)
+export(txtbk_set_theme)

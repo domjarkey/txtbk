@@ -1,0 +1,17 @@
+Package: txtbkfigures
+Type: Package
+Title: Textbook Figure Theme and Scales
+Version: 0.1.0
+Authors@R: c(
+    person("Prometheus", role = c("aut", "cre"))
+  )
+Description: ggplot2 themes, scales, and typography defaults for textbook figures.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2
+Suggests:
+    showtext,
+    sysfonts,
+    latex2exp

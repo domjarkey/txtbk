@@ -28,3 +28,17 @@ These instructions apply to the entire repository unless a more specific `AGENTS
 ## Styling and formatting
 - Prefer consistent blank lines between headings, paragraphs, and artifacts for readability.
 - Keep Markdown and HTML consistent with the existing patterns in each chapter.
+
+## Figure package (txtbkfigures)
+- The repository includes a local R package at `r/txtbkfigures` that defines the default ggplot2 theme and scales for textbook figures.
+- Load the package in R sessions via `.Rprofile` (already configured) or `pkgload::load_all("r/txtbkfigures")` when working inside the repo.
+- Use `theme_txtbk()` and the `scale_txtbk_*()` helpers as the starting point for all plots and diagrams, then customize only when the pedagogical goal requires it.
+
+## Diagram style notes (essentials)
+- Prefer a print-first, early-20th-century textbook feel: monochrome ink, serif typography, thin strokes, and boxed frames.
+- Keep ornamentation minimal; remove any elements that do not clarify the mathematics or geometry.
+- Default to monochrome: use linetype and shape before introducing colour; only add muted colour when shape/linetype are insufficient.
+- Favor LaTeX math for labels (e.g., `latex2exp::TeX("$x$")`) and avoid raw ASCII math in axis titles.
+- Keep gridlines off by default; if needed, make them faint and sparse.
+- Use consistent semantic linetypes (solid for observed, dashed for theoretical, dot-dash for approximations, dotted for construction).
+- Always generate figures from code, export PDF + PNG where relevant, and fix random seeds for reproducibility.
