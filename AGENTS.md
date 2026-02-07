@@ -4,7 +4,7 @@ These instructions apply to the entire repository unless a more specific `AGENTS
 
 ## Book structure
 - Each top-level division is a separate Quarto book project under `books/<book-title>/`.
-- Within a book, source content is organized as `source/<part-title>/<chapter-title>.qmd`.
+- Within a book, source content is organised as `source/<part-title>/<chapter-title>.qmd`.
 - The build order and canonical list of chapters/parts is defined in each book's `_quarto.yml` and should be updated when adding or removing files.
 
 ## Headings and numbering
@@ -28,11 +28,12 @@ These instructions apply to the entire repository unless a more specific `AGENTS
 ## Styling and formatting
 - Prefer consistent blank lines between headings, paragraphs, and artifacts for readability.
 - Keep Markdown and HTML consistent with the existing patterns in each chapter.
+- Maintain British English spelling throughout the manuscript for consistency.
 
 ## Figure package (txtbkfigures)
 - The repository includes a local R package at `r/txtbkfigures` that defines the default ggplot2 theme and scales for textbook figures.
 - Load the package in R sessions via `.Rprofile` (already configured) or `pkgload::load_all("r/txtbkfigures")` when working inside the repo.
-- Use `theme_txtbk()` and the `scale_txtbk_*()` helpers as the starting point for all plots and diagrams, then customize only when the pedagogical goal requires it.
+- Use `theme_txtbk()` and the `scale_txtbk_*()` helpers as the starting point for all plots and diagrams, then customise only when the pedagogical goal requires it.
 
 ## Diagram style notes (essentials)
 - Prefer a print-first, early-20th-century textbook feel: monochrome ink, serif typography, thin strokes, and boxed frames.
