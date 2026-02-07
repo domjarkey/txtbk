@@ -1,5 +1,9 @@
 # ii. How to read this book {.unnumbered}
 
+::: {.callout-note}
+This book is part of a larger volume called "Measurement, Abstraction, and Information in the Natural World".
+:::
+
 This book is organised into **parts** and **chapters**. Each chapter contains numbered sections and learning artifacts. Quarto assigns the numbering automatically, so headings and captions should not include hard-coded numbers.
 
 ## Reference conventions
@@ -14,7 +18,7 @@ When an artifact is referenced in text, rely on Quarto's native labels and numbe
 ## How to interpret artifacts
 
 - **Code blocks** present structured snippets that illustrate a concept or a workflow.
-- **Plots** and **figures** provide visual summaries; plots emphasize data trends, while figures depict diagrams or layouts.
+- **Plots** and **figures** provide visual summaries; plots emphasise data trends, while figures depict diagrams or layouts.
 - **Tables** highlight structured comparisons or checklists.
 - **Callouts** highlight key takeaways, warnings, contextual notes, and definitions. Definitions use a callout with a custom title.
 - **Equations** summarise mathematical relationships used in proofs or derivations.
