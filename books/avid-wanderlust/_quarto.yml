@@ -4,7 +4,11 @@ project:
 book:
   title: "Avid Wanderlust"
   subtitle: "Measurement, Abstraction, and Information in the Natural World"
-  author: "Prometheus"
+  author:
+    - name: Prometheus
+      role: "lead author"
+    - name: Epimetheus
+      role: "co-author"
   chapters:
     - index.qmd
     - frontmatter/how-to-read.qmd
