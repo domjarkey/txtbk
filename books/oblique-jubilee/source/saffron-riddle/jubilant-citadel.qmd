@@ -1,0 +1,11 @@
+# Oblique Jubilee — Saffron Riddle — Jubilant Citadel
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Overview
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Layered components {#sec-jubilant-citadel-layers}
+
+![A layered stack showing how components build on one another.](../../assets/fig-jubilant-citadel-layers.svg){#fig-jubilant-citadel-layers}

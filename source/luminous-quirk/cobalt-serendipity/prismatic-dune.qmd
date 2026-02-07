@@ -1,9 +1,0 @@
-# Luminous Quirk — Cobalt Serendipity — Prismatic Dune
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-## Overview
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-To compare supporting artifacts, review [table 1.2.1.1.1](../../slothful-apex/mirthful-anvil/nimble-monolith.qmd#table-1-2-1-1-1), [plot 2.2.1.1.1](../../avid-wanderlust/velvet-tundra/radiant-vortex.qmd#plot-2-2-1-1-1), and [equation 2.2.2.1.1](../../avid-wanderlust/velvet-tundra/gentle-labyrinth.qmd#equation-2-2-2-1-1) for examples from earlier parts.

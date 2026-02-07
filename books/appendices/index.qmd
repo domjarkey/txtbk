@@ -1,0 +1,3 @@
+# i. Title page {.unnumbered}
+
+Welcome to the appendices for Measurement, Abstraction, and Information in the Natural World. This book collects supporting material referenced across the series.

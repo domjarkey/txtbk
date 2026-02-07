@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "Oblique Jubilee"
+  subtitle: "Measurement, Abstraction, and Information in the Natural World"
+  author: "Prometheus"
+  chapters:
+    - index.qmd
+    - frontmatter/how-to-read.qmd
+    - part: "Rustic Nebula"
+      chapters:
+        - source/rustic-nebula/whimsical-barricade.qmd
+        - source/rustic-nebula/amber-gyre.qmd
+    - part: "Saffron Riddle"
+      chapters:
+        - source/saffron-riddle/lucid-harpoon.qmd
+        - source/saffron-riddle/jubilant-citadel.qmd
+
+format:
+  html:
+    toc: true
+    lof: true
+    output-dir: ../../site/oblique-jubilee
+    css: ../../styles.css

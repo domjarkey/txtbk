@@ -3,48 +3,27 @@
 These instructions apply to the entire repository unless a more specific `AGENTS.md` exists in a subdirectory.
 
 ## Book structure
-- The book is authored in Quarto `.qmd` files under `frontmatter/` and `source/`.
-- Source content is organized as `source/<part-title>/<book-title>/<chapter-title>.qmd`.
-- The build order and canonical list of chapters/appendices is defined in `_quarto.yml` and should be updated when adding or removing files.
+- Each top-level division is a separate Quarto book project under `books/<book-title>/`.
+- Within a book, source content is organized as `source/<part-title>/<chapter-title>.qmd`.
+- The build order and canonical list of chapters/parts is defined in each book's `_quarto.yml` and should be updated when adding or removing files.
 
 ## Headings and numbering
 - Chapter titles use a level-1 heading (`#`), section titles use a level-2 heading (`##`).
-- Section anchors follow the pattern `#sec-<part>-<book>-<chapter>-<section>`.
-- Artifact labels include their type in the visible title and use an ID that matches the numbering scheme.
+- Use Quarto's native numbering for parts, chapters, and sections. Avoid hard-coding numbers in headings, IDs, or captions.
+- Use descriptive, stable IDs for sections and artifacts (for example, `#sec-overview` or `#fig-workflow`).
 - Frontmatter entries are tagged with `{.unnumbered}` and use lower-case roman numerals (i, ii, iii, iv, ...) in their displayed titles and navigation labels so part numbering begins at Part 1.
 
 ## Artifact standards
-- **Equations must be wrapped in a div** so they can be referenced without a visible tag in text. Use this exact format:
-  ```
-  ::: {#equation-<part>-<book>-<chapter>-<section>-<equation>}
-  $$
-  ...
-  \tag{<part>.<book>.<chapter>.<section>.<equation>}
-  $$
-  :::
-  ```
-  Appendices use the same wrapper with their appendix-specific IDs (for example, `#eq-appendix-a-energy`).
-- **Text boxes, definitions, figures, plots, tables, and code blocks** must be wrapped in a div with their anchor ID and must not use subheaders.
-  - Use `::: {#<id>}` (plus a class like `.definition` for text boxes) to wrap the artifact content.
-  - Place the caption below the artifact content inside the same div.
-  - Captions are plain paragraphs (no subheader) that include the numbering and optional description, e.g. `Figure 1.1.1.1.1: Description.`.
-  - Caption text is centered, and the label portion (for example, `Figure 1.1.1.1.1:`) is bold.
-  - Definition text begins with **Definition:** in bold and underlines the defined term(s) when they appear in the definition.
-  - Text boxes begin with a short bold descriptor followed by a colon (for example, **Historical context:**).
-  - Example:
-    ```
-    ::: {#figure-1-1-1-1-1}
-    <figure>
-      ...
-    </figure>
-
-    <p class="caption"><strong>Figure 1.1.1.1.1:</strong> A simple three-stage workflow.</p>
-    :::
-    ```
+- **Equations** use Quarto's native equation labels (for example, `$$ ... $$ {#eq-energy}`) so they are numbered automatically.
+- **Figures**, **plots**, **tables**, and **code listings** use Quarto's native captioning and labels (`fig-cap`, `tbl-cap`, or listing captions) so numbering is automatic.
+- **Text boxes and definitions** use Quarto **callouts** (`note`, `tip`, `important`, `warning`, etc.). Callouts are unnumbered by default.
+  - Use a descriptive ID on callouts when they must be referenced (for example, `::: {.callout-note #callout-context}`).
+  - Definitions should be callouts with a custom title (for example, `title="Definition: Scope identifier"`).
 
 ## References and links
-- Use Quarto cross-references (`@id`) for equations, figures, tables, and other artifacts.
-- Keep the visible label and numeric identifier consistent with the file location (part, book, chapter, section).
+- Use Quarto cross-references (`@id`) for equations, figures, tables, and other numbered artifacts.
+- Use standard Markdown links (`[text](#id)`) for callouts and other unnumbered items.
+- Keep visible labels free of hard-coded numbers so Quarto controls numbering.
 
 ## Styling and formatting
 - Prefer consistent blank lines between headings, paragraphs, and artifacts for readability.

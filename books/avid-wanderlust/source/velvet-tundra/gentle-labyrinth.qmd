@@ -1,0 +1,15 @@
+# Avid Wanderlust — Velvet Tundra — Gentle Labyrinth
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Overview
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Effort model {#sec-gentle-labyrinth-effort}
+
+$$
+E = \frac{c}{n} + r
+$$ {#eq-gentle-labyrinth-effort}
+
+Here, $E$ represents the estimated effort, $c$ is baseline complexity, $n$ is team size, and $r$ is a fixed review overhead.

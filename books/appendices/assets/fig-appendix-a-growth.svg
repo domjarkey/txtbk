@@ -1,0 +1,5 @@
+<svg width="260" height="110" viewBox="0 0 260 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Quadratic growth curve">
+  <polyline fill="none" stroke="#2f855a" stroke-width="3" points="10,100 60,90 110,70 160,40 210,10 250,5"/>
+  <line x1="10" y1="100" x2="250" y2="100" stroke="#555" />
+  <line x1="10" y1="10" x2="10" y2="100" stroke="#555" />
+</svg>

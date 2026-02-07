@@ -1,0 +1,13 @@
+# Slothful Apex — Feral Zephyr — Brisk Chimera
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Overview
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Key takeaway focus {#sec-brisk-chimera-takeaway}
+
+::: {.callout-tip #callout-brisk-chimera-takeaway title="Key takeaway"}
+A concise summary helps readers remember the intent of this placeholder callout and how it supports the chapter narrative.
+:::

@@ -1,0 +1,19 @@
+# Luminous Quirk — Gilded Thistle — Crimson Meadow
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Overview
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Metadata record {#sec-crimson-meadow-metadata}
+
+```{.json #lst-crimson-meadow-process caption="Example metadata record."}
+{
+  "part": 3,
+  "book": 2,
+  "chapter": 1,
+  "section": 1,
+  "purpose": "Illustrate a structured metadata record."
+}
+```
